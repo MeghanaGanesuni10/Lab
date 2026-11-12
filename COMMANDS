@@ -1,0 +1,30 @@
+Express:
+
+node -v
+npm -v
+mkdir FSD
+cd FSD
+mkdir Express
+cd Express
+npm init -y
+npm install express
+
+node filename.js
+
+npm install ejs
+
+*REACT*
+npm create vite@latest ReactLab -- --template react
+cd ReactLab
+npm install
+npm run dev
+
+npm install sass
+
+folder/src/app.jsx
+
+Mondodb
+install mogodb community server
+install mongodb shell 
+
+mongosh
